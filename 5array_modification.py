@@ -39,5 +39,21 @@ arr1 = np.array([30, 40])
 arr2 = np.array([50, 60])
 # arr1 = np.array([[10, 20], [30, 40]])
 # arr2 = np.array([[50, 60], [70, 80]])
-new_arr = np.concatenate((arr1, arr2), axis = 1)
+new_arr = np.concatenate((arr1, arr2), axis = 0)
 print(new_arr)
+
+
+# deleting an array
+'''
+np.delete(array, index, axis = None) -> flatten array
+it returns new array
+'''
+
+arr = np.array([1, 3, 2, 4, 7])
+new_arr = np.delete(arr, 3)
+print(new_arr)
+# for multidimensional array
+
+arr_2d = np.array([[1,2,3],[4,5,6]])
+new_arr_2d = np.delete(arr_2d, 0, axis = 0)
+print(new_arr_2d)
