@@ -1,0 +1,51 @@
+emp_id,name,age,salary,experience,city,department,performance_rating
+E001,Alice,29,55000,5,New York,HR,4
+E002,Bob,35,65000,10,Chicago,IT,5
+E003,Charlie,42,NaN,15,San Francisco,Finance,3
+E004,David,28,48000,3,New York,hr,4
+E005,Eva,31,72000,8,Boston,IT,Excellent
+E006,Frank,-25,40000,2,Chicago,Sales,3
+E007,Grace,45,120000,20,San Jose,Finance,6
+E008,Hannah,,50000,5,New York,HR,4
+E009,Ian,38,inf,12,Chicago,IT,5
+E010,Jane,27,45000,-3,Boston,Sales,2
+E011,Kyle,34,60000,9,New York,Finance,4
+E012,Liam,29,55000,5,New York,HR,4
+E013,Mia,41,98000,18,San Francisco,IT,3
+E014,Nina,33,-70000,7,Chicago,Finance,4
+E015,Oscar,26,42000,2,Boston,Sales,NaN
+E016,Paul,50,150000,30,New York,Management,5
+E017,Quinn,39,85000,14,San Jose,IT,4
+E018,Rachel,29,55000,5,New York,HR,4
+E019,Steve,60,200000,40,Chicago,Finance,5
+E020,Tina,22,30000,0,Boston,HR,1
+E021,Uma,27,35000,1,New York,HR,2
+E022,Victor,31,60000,6,Chicago,It,4
+E023,Wendy,48,110000,22,San Francisco,Finance,3
+E024,Xander,36,75000,11,San Jose,Sales,4
+E025,Yara,29,55000,5,New York,HR,4
+E026,Zack,33,68000,8,Chicago,IT,3
+E027,Alice,29,55000,5,New York,HR,4
+E028,Brian,44,105000,19,San Francisco,Finance,4
+E029,Cara,37,90000,13,San Jose,IT,NaN
+E030,Derek,28,47000,3,Boston,Sales,2
+E031,Elena,34,62000,9,New York,HR,4
+E032,Fred,52,130000,25,Chicago,Management,5
+E033,Gina,41,95000,17,San Francisco,IT,3
+E034,Harry,39,-inf,14,San Jose,Finance,4
+E035,Ivy,26,41000,2,Boston,Sales,2
+E036,Jack,31,59000,6,New York,HR,3
+E037,Karen,45,115000,20,Chicago,Finance,4
+E038,Leo,29,55000,5,,IT,4
+E039,Mona,33,67000,8,Boston,HR,good
+E040,Nate,38,82000,12,San Jose,Sales,3
+E041,Olivia,27,36000,1,New York,HR,2
+E042,Peter,49,140000,23,Chicago,Management,5
+E043,Queen,35,71000,10,San Francisco,IT,4
+E044,Ron,42,98000,16,San Jose,Finance,3
+E045,Sara,30,58000,5,Boston,HR,4
+E046,Tom,34,63000,9,New York,Sales,3
+E047,Ursula,46,118000,21,Chicago,Finance,4
+E048,Vin,28,46000,3,San Jose,IT,2
+E049,Will,55,160000,28,New York,Management,5
+E050,Xena,24,29000,0,Boston,HR,1
